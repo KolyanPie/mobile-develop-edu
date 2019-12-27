@@ -1,0 +1,2 @@
+include ':app', ':accelerometr', ':camera', ':audiorecorder'
+rootProject.name='lablesson5'
